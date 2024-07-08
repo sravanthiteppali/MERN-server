@@ -1,4 +1,4 @@
-name: Auto Merge Main to Testing
+name: Auto Merge Main to Testing in the client
 
 on:
   push:
